@@ -23,3 +23,6 @@ The code generates plots illustrating the MFD curves, simulation state, and cont
 
 ## Exporting Results
 Optionally, the code allows the exporting of simulation results as figures in PNG format.
+
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
